@@ -25,3 +25,7 @@ localhost:8000/
 ```
 The first will provide the static data necessary for the task.
 The second is irrelevant.
+
+### Notes
+#### CORS
+Cross-origin requests can be made from `localhost:8080`.
